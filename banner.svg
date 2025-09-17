@@ -1,0 +1,35 @@
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .container {
+                    font-family: 'Segoe UI', Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    height: 100%;
+                    background-color: #282a36; /* dracula background */
+                    color: #f8f8f2; /* dracula foreground */
+                    text-align: center;
+                    border-radius: 10px;
+                }
+                h1 {
+                    font-size: 3em;
+                    margin: 0;
+                }
+                .emojis {
+                    font-size: 1.5em;
+                    margin-top: 10px;
+                }
+            </style>
+            <div class="container">
+                <h1>Hi there, I'm CodedWithLikhon 👋</h1>
+                <div class="emojis">
+                    🦄 🦋 🍕 ☕ 🌳
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+    <image href="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" x="600" y="25" height="150" width="150" />
+</svg>

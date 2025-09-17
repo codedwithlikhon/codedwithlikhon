@@ -3,14 +3,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedwithlikhon&label=Profile%20views&color=0e75b6&style=flat" alt="codedwithlikhon" /> </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Coder GIF">
+  <img src="banner.svg" alt="codedwithlikhon's Banner">
 </p>
 
 ## I'm a passionate developer, but I'm also a human 🤷‍♂️
 
-- 🔭 I’m currently working on something cool. Or maybe I'm just watching cat videos. You'll never know.
-- 🌱 I’m currently learning how to exit Vim.
-- 👯 I’m looking to collaborate on projects that will make the world a better place... or at least a funnier one.
+- 🔭 I’m currently working on something cool 🦄. Or maybe I'm just watching cat videos 🐱. You'll never know.
+- 🌱 I’m currently learning how to exit Vim... and how to bake the perfect pizza 🍕.
+- 👯 I’m looking to collaborate on projects that will make the world a better place... with coffee ☕.
 - 🤔 I’m looking for help with understanding why my code works. It's a mystery.
 - 💬 Ask me about anything, but be prepared for a sarcastic answer.
 - 📫 How to reach me: You can't. I'm a digital nomad, currently living in the cloud. Just kidding, you can find me on [LinkedIn](https://www.linkedin.com/in/likhon-mia/).
