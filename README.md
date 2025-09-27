@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/4sbmrhjR4qQAAAAi/pepe-pepedj.gif" alt="Coder GIF">
+  <img src="https://media.tenor.com/JCA2UcDRqikAAAAi/pepe-dance-pepe-break.gif" alt="Coder GIF">
 </p>
 
 ## My Skills (or so I claim) 💻
