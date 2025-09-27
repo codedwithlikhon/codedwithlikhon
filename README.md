@@ -2,12 +2,6 @@
   <img src="https://media.tenor.com/4sbmrhjR4qQAAAAi/pepe-pepedj.gif" alt="Coder GIF">
 </p>
 
-
-- 💬 Ask me about anything, but be prepared for a sarcastic answer.
-- 📫 How to reach me: You can't. I'm a digital nomad, currently living in the cloud. Just kidding, you can find me on [LinkedIn](https://www.linkedin.com/in/likhon-mia/).
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can write code that works on the first try. It's just that the first try is usually the 42nd try.
-
 ## My Skills (or so I claim) 💻
 
 <p align="left">
