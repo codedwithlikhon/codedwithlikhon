@@ -1,5 +1,3 @@
-# Hi there, I'm CodedWithLikhon 👋
-
 <p align="center">
   <img src="https://media.tenor.com/4sbmrhjR4qQAAAAi/pepe-pepedj.gif" alt="Coder GIF">
 </p>
