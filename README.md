@@ -1,7 +1,7 @@
 # Hi there, I'm CodedWithLikhon 👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" alt="Coder GIF">
+  <img src="https://media.tenor.com/4sbmrhjR4qQAAAAi/pepe-pepedj.gif" alt="Coder GIF">
 </p>
 
 ## I'm a passionate developer, but I'm also a human 🤷‍♂️
